@@ -1,6 +1,8 @@
 Access the below link:
 http://3.134.234.45:8086/web-spring-hibernate-h2
 
+User: sandeep/fun123
+
 Tomcat Access:
 http://3.134.234.45:8086/
 
